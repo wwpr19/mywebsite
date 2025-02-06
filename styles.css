@@ -1,0 +1,31 @@
+/*type*/
+h1{
+    color: #0000ff;
+    font-variant: inherit;
+
+}
+/*id*/
+#title{
+    color: #ff0000;
+    font-family: 'Courier New', Courier, monospace;
+}
+/*relational*/
+ul {
+    color: #ffa500;
+}
+/* */
+body {
+    background-color: #09dddd;
+}
+/*combination*/
+main img{
+    border: #ffa500;
+    padding: 2em;
+
+}
+/*attribute selector*/
+li:hover{
+    color: #ff0000;
+    font-weight: bold;
+    font-size: large;
+}
